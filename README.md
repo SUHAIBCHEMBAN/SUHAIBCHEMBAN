@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUHAIBCHEMBAN
+- 👋 Hi, I’m @ SUHAIB C
 - 👀 I’m passionate about coding and constantly exploring new technologies.
 - 🌱 I’m currently diving deep into Python Fullstack development.
 - 💞️ I’m looking to collaborate on exciting open-source projects and innovative coding challenges.
