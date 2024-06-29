@@ -55,7 +55,7 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,notion,figma,pycharm,aws,redis" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,notion,figma,pycharm,aws,redis,celery" /><br>
 </div>
 
 <br/>
