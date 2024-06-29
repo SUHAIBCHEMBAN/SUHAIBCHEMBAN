@@ -55,8 +55,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=notion,eclipse,pycharm,vscode,github,figma,redis,aws" /><br>
-    <img src="https://example.com/path-to-razorpay-icon.png" alt="Razorpay" height="48" />
-    <img src="https://example.com/path-to-online-code-compiler-icon.png" alt="Online Code Compiler" height="48" />
 </div>
 
 
