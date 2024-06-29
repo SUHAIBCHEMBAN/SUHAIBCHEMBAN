@@ -22,6 +22,8 @@
   
  💡 Favorite quote: "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
+ 📫 How to reach me: shuhaibchemban2004@gmail.com
+
  Feel free to explore my repositories and let's connect!
 
  </div>
