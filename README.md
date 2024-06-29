@@ -30,7 +30,7 @@
  </div>
  
 <div align="center"> 
-  <a href="shuhaibchemban2004@gmail.com">
+  <a href="mailto:shuhaibchemban2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/suhaib-c-114b10292/" target="_blank">
@@ -55,7 +55,7 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,notion,figma,pycharm,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,notion,figma,pycharm,aws,redis" /><br>
 </div>
 
 <br/>
