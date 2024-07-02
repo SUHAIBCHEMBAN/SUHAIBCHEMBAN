@@ -45,7 +45,8 @@
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,bootstrap,python,django,postgres,javascript,react,rest" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,bootstrap,python,django,postgres,javascript,react" />
+    <img src="https://via.placeholder.com/50x50.png?text=REST" alt="REST" style="width: 50px; height: 50px; vertical-align: middle;" />
 </div>
 
 <br/>
