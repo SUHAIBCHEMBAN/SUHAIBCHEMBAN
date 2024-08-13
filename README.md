@@ -6,7 +6,7 @@
 
 <br/>
 
-<div align="center">
+<div>
       
  👀 I’m passionate about coding and constantly exploring new technologies.
   
