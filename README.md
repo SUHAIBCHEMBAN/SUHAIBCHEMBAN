@@ -10,7 +10,7 @@
       
  👀 I’m passionate about coding and constantly exploring new technologies.
   
- 🌱 I’m currently diving deep into Python  development.
+ 🌱 I’m currently Working as a Web Developer at an advertising company.
   
  💞️ I’m looking to collaborate on exciting open-source projects and innovative coding challenges.
   
