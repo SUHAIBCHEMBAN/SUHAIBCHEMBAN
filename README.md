@@ -22,14 +22,14 @@
   
  💡 Favorite quote: "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
- 📫 How to reach me: shuhaibchemban2004@gmail.com
+ 📫 How to reach me: shuhaibc2004@gmail.com
 
  Feel free to explore my repositories and let's connect!
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:shuhaibchemban2004@gmail.com">
+  <a href="mailto:shuhaibc2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/suhaib-c-114b10292/" target="_blank">
