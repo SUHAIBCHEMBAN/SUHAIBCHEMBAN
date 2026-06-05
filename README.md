@@ -1,144 +1,111 @@
 <div align="center">
 
-```
-██████╗ ██╗   ██╗██╗  ██╗ █████╗ ██╗██████╗
-██╔════╝██║   ██║██║  ██║██╔══██╗██║██╔══██╗
-╚█████╗ ██║   ██║███████║███████║██║██████╔╝
- ╚═══██╗██║   ██║██╔══██║██╔══██║██║██╔══██╗
-██████╔╝╚██████╔╝██║  ██║██║  ██║██║██████╔╝
-╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝
-```
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+2%2B+Years+XP;Building+scalable+web+apps;React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+AWS;Open+to+Collaborate+%F0%9F%9A%80)](https://git.io/typing-svg)
+# SUHAIB C
 
-<img src="https://komarev.com/ghpvc/?username=suhaib-c&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=0D1117" />
+<sub>FULL STACK DEVELOPER</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=15&pause=1000&color=7f140f&center=true&vCenter=true&width=500&lines=React+%C2%B7+Next.js+%C2%B7+Django+%C2%B7+AWS;Building+scalable+web+systems;Open+to+collaborate" alt="Typing SVG" />
+
+<br/>
+
+![](https://img.shields.io/badge/Status-Open%20to%20Collaborate-7f140f?style=flat-square&labelColor=0d0d0d)
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Available%20for%20Collab-00FF41?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
----
-
-## `> whoami`
-
-```bash
-$ cat profile.json
-```
-
-```json
-{
-  "name"       : "Suhaib C",
-  "role"       : "Full Stack Developer",
-  "location"   : "Kerala, India 🇮🇳",
-  "experience" : "2+ Years",
-  "current"    : "Web Developer @ Faakart E-Commerce",
-  "interests"  : ["Open Source", "Cloud Architecture", "Scalable Systems"],
-  "hobbies"    : ["Coding", "Music", "Exploring new tech"],
-  "quote"      : "Code is like humor. When you have to explain it, it's bad."
-}
-```
-
----
-
-## `> ls -la /skills`
-
-### ⚙️ Languages & Frameworks
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41)
-
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=00FF41)
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00FF41)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00FF41)
-
-</div>
-
-### 🗄️ Databases & Cloud
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00FF41)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=00FF41)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=00FF41)
-
-</div>
-
-### 🛠️ Tools & Platforms
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
-![PyCharm](https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=00FF41)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FF41)
-![Notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=00FF41)
-![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=00FF41)
-
-</div>
-
----
-
-## `> cat /stats/github`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=suhaib-c&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaib-c&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=888888" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib-c&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-
-</div>
-
----
-
-## `> cat /stats/activity`
-
-<div align="center">
-
-[![Suhaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaib-c&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF4122&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `> cat /trophies`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=suhaib-c&theme=matrix&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `> ping suhaib --connect`
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:shuhaibc2004@gmail.com)
+![](https://img.shields.io/badge/Experience-2%2B%20Years-7f140f?style=flat-square&labelColor=0d0d0d)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/suhaib-c-114b10292/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=Firefox-Browser&logoColor=00FF41)](https://portfolio-rjs-chi.vercel.app/)
+![](https://komarev.com/ghpvc/?username=suhaib-c&style=flat-square&color=7f140f&labelColor=0d0d0d&label=Profile+Views)
 
 </div>
 
 ---
 
+### About
+
+```yaml
+name      : Suhaib C
+role      : Full Stack Developer
+company   : Web Developer @ Faakart E-Commerce
+location  : Kerala, India
+focus     : Scalable Web Systems · Cloud Architecture
+interests : Open Source · React Ecosystem · Backend Engineering
+quote     : "Code is like humor. When you have to explain it, it's bad."
+```
+
+---
+
+### Tech Stack
+
+**Languages**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=7f140f)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=7f140f)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=7f140f)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=7f140f)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=7f140f)
+
+**Frameworks**
+&nbsp;
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=7f140f)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=7f140f)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=7f140f)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=7f140f)
+
+**Infrastructure**
+&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazon-aws&logoColor=7f140f)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=7f140f)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=7f140f)
+
+**Tools**
+&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=flat-square&logo=visual-studio-code&logoColor=7f140f)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=7f140f)
+![Notion](https://img.shields.io/badge/Notion-0d0d0d?style=flat-square&logo=notion&logoColor=7f140f)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=7f140f)
+
+---
+
+### GitHub Stats
+
 <div align="center">
 
-```
-> Connection established. Ready to build something great together.
-> Press any key to collaborate... █
-```
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=suhaib-c&show_icons=true&hide_border=true&bg_color=060606&title_color=7f140f&icon_color=7f140f&text_color=F2F2F2&ring_color=7f140f" />
+&nbsp;
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=suhaib-c&hide_border=true&background=060606&ring=7f140f&fire=7f140f&currStreakLabel=7f140f&sideLabels=888888&dates=555555&stroke=060606" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=0D1117" />
+<br/><br/>
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib-c&layout=compact&hide_border=true&bg_color=060606&title_color=7f140f&text_color=F2F2F2" />
+
+</div>
+
+---
+
+### Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suhaib-c&bg_color=060606&color=7f140f&line=7f140f&point=F2F2F2&area=true&area_color=7f140f22&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-shuhaibc2004%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=7f140f)](mailto:shuhaibc2004@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suhaib--c-0d0d0d?style=flat-square&logo=linkedin&logoColor=7f140f)](https://www.linkedin.com/in/suhaib-c-114b10292/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-suhaib.dev-0d0d0d?style=flat-square&logo=firefox-browser&logoColor=7f140f)](https://portfolio-rjs-chi.vercel.app/)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Building scalable systems from Kerala, India</sub>
 </div>
