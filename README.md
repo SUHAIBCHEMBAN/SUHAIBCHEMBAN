@@ -73,14 +73,14 @@ Check out my **[Portfolio](https://suhaibsportfolio.vercel.app)** for live proje
 
 ### 📈 GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhaib-c&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhaib-c&theme=radical&hide_border=true" height="180" alt="Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaib-c&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
