@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" alt="Suhaib C" style="border-radius: 50%; border: 4px solid #00f5ff;" />
+  <img height="180" src="https://avatars.githubusercontent.com/u/SUHAIBCHEMBAN" alt="Suhaib C" style="border-radius: 50%; border: 4px solid #00f5ff;" />
 </div>
 
 <br>
